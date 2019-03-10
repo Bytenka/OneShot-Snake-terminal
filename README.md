@@ -1,4 +1,4 @@
-# Snake terminal (school project)
+# Snake terminal (oneshot)
 Side project from a school work, where we were supposed to create the game Snake on an Arduino and a 8x8 led matrix panel
 
 ### Prerequisites
